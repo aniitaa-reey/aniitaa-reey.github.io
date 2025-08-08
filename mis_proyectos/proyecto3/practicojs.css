@@ -1,0 +1,11 @@
+h1 {
+  background-color: lightblue;
+  color: blue;
+  font-size: large;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  background-color: lightsteelblue;
+  color: black;
+}
